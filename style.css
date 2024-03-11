@@ -9,6 +9,7 @@ body{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  width: 100%;
 }
 
 .navbar{
@@ -32,7 +33,7 @@ img{
 .navbar .item{
  width: 100%;
   display: flex;
-  justify-content: right;
+ 
 }
 
 .item a{
